@@ -1,0 +1,6 @@
+{
+    "configuration": "bootloader=uart0,eeprom=keep,variant=modelP,BOD=2v7,LTO=Os,clock=16MHz_external",
+    "board": "MiniCore:avr:168",
+    "programmer": "MiniCore:arduinoasisp",
+    "sketch": "G\\G.ino"
+}
